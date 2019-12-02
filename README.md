@@ -6,6 +6,7 @@ Both methods can be used at the same time.
 
 This Link List does NOT store indexes so it will become slow with huge lists if you are not accessing data sequentially. 
 
-///////////////////// NOTES \\\\\\\\\\\\\\\\\\\\
+//////////////////////////////////// NOTES \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 Be carful when you add data, the cursor may not move how you expect it to, make sure to check its location with getCurrentIndex() when you need to know where you are.
 
