@@ -9,5 +9,7 @@ This Link List does NOT store indexes so it will become slow with huge lists if 
 //////////////////////////////////// NOTES \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 Be carful when you add data, the cursor may not move how you expect it to, make sure to check its location with getCurrentIndex() when you need to know where you are.
+
+
 If you us this code please add it to your credits if you have some. 
 As with Open source stuff feel free to modify it as much as you want, just don’t forget to give credit where required.
