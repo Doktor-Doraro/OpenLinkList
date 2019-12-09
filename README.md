@@ -1,4 +1,4 @@
-# OpenLinkList
+# C++ Link List class
 This is a link list that is free and open for public use. It supports two forms of access, index and cursor/pointer access.
 The index method simply iterates through the list
 The cursor/pointer method relies on the user to iterate through the list. 
